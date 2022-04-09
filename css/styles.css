@@ -1,0 +1,142 @@
+body{
+  font-family:"Mulish"
+
+}
+
+h1{
+  font-weight:900;
+}
+h2{
+  font-weight:700;
+}
+h3{
+  font-weight:500;
+}
+
+
+/*Header*/
+
+#header{
+  background-color: #B000B9;
+  color:#fff;
+  position:relative;
+}
+
+
+
+.title{
+  padding:11% 7%;
+  text-align:center;
+
+}
+
+.header-image{
+  width:85%;
+  margin-left:25px;
+}
+.wave1{
+width:100%;
+}
+
+
+
+
+
+
+
+
+/*Services*/
+#services{
+  padding:7% 15%;
+  text-align:center;
+  position:relative;
+}
+
+.service-box{
+  padding:7% 5%;
+  line-height:2;
+}
+
+.service-icons{
+  padding-bottom:5%;
+}
+
+.network-image{
+  width:90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*About us*/
+
+#about{
+  background-color: #F7F6F2;
+  padding:7% 15%;
+}
+
+#about h2{
+  text-align:center;
+}
+.about-us{
+  padding-top:7%;
+  line-height:2;
+}
+
+
+
+
+
+
+
+
+
+/*Testimonials*/
+#testimonials{
+  padding:7% 15%;
+  text-align:center;
+}
+.testimonial-members{
+  text-align:left;
+  padding:5% 10%;
+  line-height:2;
+
+}
+.testimonial-image{
+  border-radius:50%;
+  width:18%;
+  float:left;
+}
+
+.about-them{
+  margin-left:20%;
+}
+
+.testimonial-boxes{
+  border-left:3px solid;
+  border-color: #B000B9;
+}
+
+
+
+
+
+/*Contact*/
+#contact{
+  padding:7% 15%;
+  background-color:#F7F6F2;
+  text-align: center;
+}
+
+.media-icons{
+  width:4%;
+}
